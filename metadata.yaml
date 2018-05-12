@@ -1,0 +1,48 @@
+_repo: Felix-Holt-The-Radical_40882
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eliot, George
+    aliases:
+    - Evans, Marian
+    - Lewes, M. E. (Marian Evans)
+    - Evans, Mary Anne
+    - Cross, Mary Ann
+    - Lewes, Marian Evans
+    - Cross, Marian Evans
+    birthdate: 1819
+    deathdate: 1880
+    gutenberg_agent_id: '90'
+    url: http://www.gutenberg.org/2009/agents/90
+    wikipedia: http://en.wikipedia.org/wiki/George_Eliot
+description: A political radical and a child of the working class, Felix has lost
+  faith in a political system in which candidates never represent the interests of
+  the working class. Harold Transome, the cynical son of wealthy Tory landowners,
+  embraces radical politics for very different reasons. Both Harold and Felix vie
+  for the affections of Esther Lyon, and she must weigh her feelings for them with
+  the social and material goals she has set for herself. Their personal drama unfolds
+  against the broad canvas of social and political upheaval of 1830s England.
+gutenberg_issued: '2012-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legal stories'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Radicals -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Elections -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+title: Felix Holt, the Radical
+url: http://www.gutenberg.org/ebooks/40882
